@@ -1,14 +1,14 @@
 {
-  "name": "9a151347d562f85efc3892332bf67446d9a00d8b11",
+  "name": "ikRvjasdw0Basdw3kJjmy8d",
   "theme": "syntax",
-  "version": "1.0.115",
+  "version": "0.0.0",
   "description": "haasao.com เว็บไซต์รวบรวมไซด์ไลน์ โพสต์รับงาน ระบบค้นหาที่ดีที่สุด",
   "keywords": [
     "หาสาว",
     "ไซด์ไลน์",
     "sideline"
   ],
-  "repository": "https://github.com/haasao69/haasao.com",
+  "repository": "https://github.com/haasao69/haasao.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
