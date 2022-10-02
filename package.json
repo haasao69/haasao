@@ -1,0 +1,16 @@
+{
+  "name": "9a151347d562f85efc3892332bf67446d9a00d8b11",
+  "theme": "syntax",
+  "version": "1.0.115",
+  "description": "haasao.com เว็บไซต์รวบรวมไซด์ไลน์ โพสต์รับงาน ระบบค้นหาที่ดีที่สุด",
+  "keywords": [
+    "หาสาว",
+    "ไซด์ไลน์",
+    "sideline"
+  ],
+  "repository": "https://github.com/haasao69/haasao.com",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
